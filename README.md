@@ -4,6 +4,16 @@
 
 This is a simple ATM Management System developed in Python. The program allows users to log in using an account number and PIN, check their balance, deposit money, withdraw money, and exit the application.
 
+## Skills Demonstrated
+
+- Python Programming
+- Conditional Statements
+- Loops
+- Lists and Indexing
+- User Input Handling
+- Function-Based Logic
+- Command-Line Applications
+  
 ## Features
 
 * User authentication using account number and PIN
@@ -27,6 +37,8 @@ This is a simple ATM Management System developed in Python. The program allows u
    * Deposit Money
    * Exit
 4. The balance is updated after every deposit or withdrawal transaction.
+
+> Note: These account numbers and PINs are sample credentials included for demonstration and testing purposes only.
 
 ## Sample Account Details
 
@@ -74,5 +86,5 @@ Login successful!
 
 ## Author
 
-Developed as a Python learning project.
+This project was developed to strengthen Python programming fundamentals and gain practical experience with user authentication and banking system logic.
 
